@@ -1,3 +1,2 @@
-# HtmlCode
-# My Name is Lake Firew
-#This is html sample code
+# Python training files
+you can copy and paste the code on your jupyter notebook.
